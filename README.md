@@ -59,9 +59,10 @@ Stock details will keep Stock quantity along with orders quantity
 
 # Tech Stack Used 
 
-* Platform : Windows 10
-* Frontend/UI : React with Mobx
-* Backend Server : Java Spring
-* Database : MS-SQL
+* **Platform** : Windows 10
+* **Frontend/UI** : React with Mobx
+* **Backend Server** : Java Spring
+* **Database** : MS-SQL
+* **JDBC Driver** : Our Application will connect to Database using Microsoft JDBC Driver for SQL Server 7.2
 
 
