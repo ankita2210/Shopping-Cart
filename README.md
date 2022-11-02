@@ -36,8 +36,6 @@ We can add external links /video which shares some positive insights about the p
 ## Stock Details
 Stock details will keep Stock quantity along with orders quantity
 
-
-
 # Some screenshots of our application 
 
 * **Login Page**
@@ -58,3 +56,12 @@ Stock details will keep Stock quantity along with orders quantity
   ![Item Display Page](https://github.com/ankita2210/Shopping-Cart/blob/f997afab11c67dcb85c6d5625147699d2142374e/ItemDisplay.jpg)
 
   ![Item Detail Page](https://github.com/ankita2210/Shopping-Cart/blob/b5bd3e7fcd91275bc34750bf157f05dd019ae3d3/ItemDetail.jpg)
+
+# Tech Stack Used 
+
+* Platform : Windows 10
+* Frontend/UI : React with Mobx
+* Backend Server : Java Spring
+* Database : MS-SQL
+
+
