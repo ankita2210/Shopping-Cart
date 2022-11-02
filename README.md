@@ -1,5 +1,5 @@
 # Shopping-Cart
-Shopping-Cart Repo for submission of DDA assignment
+Welcome to Shopping-Cart application Repo for submission of DDA assignment by Group-A
 
 # Feature List
 
